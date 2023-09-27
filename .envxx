@@ -2,22 +2,22 @@
 
 # Mandatory Vars
 
-NAME='Friend'
+NAME='Rasya Ramadhani Putri'
 ## Name of receiver
 
-PIC='sample-pic.jpeg'
+PIC='pic.jpeg'
 ## Name of image file
 
 # Optional Vars -- Do not add these vars to your env if you dont want to use them
 
-NICKNAME='Buddy'
+NICKNAME='- R 🥳🥳'
 ## A Nickname for more personalization
 
-HBD_MSG='May your soul rest in peace'
+HBD_MSG='Happy Birthday Beb!, Wish you All the Best!!!'
 ## Custom HBD Greeting message
 
 SCROLL_MSG='sample-scroll.txt'
 ## Name of the Scroll Message txt file
 
-OPEN_DATE='2022-08-09'
+# OPEN_DATE='2023-09-27'  
 ## Active Date in YYYY-MM-DD format
