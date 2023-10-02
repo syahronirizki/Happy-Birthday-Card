@@ -33,12 +33,3 @@
 6. Upon Successful execution, your built files will be ready in the `./dist` directory. Open `./dist/index.html` to see the card.
 
 For further customization, checkout [here](./docs/customizations.md).
-
----
-
-<a href="https://t.me/AnshumanMahato"><img src="https://cdn.cdnlogo.com/logos/t/39/telegram.svg" height="50px"></a>
-<a href="mailto:rcoder.bytes@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg" height="50px"></a>
-
-Made with 💖 by Anshuman Mahato
-
-</div>
